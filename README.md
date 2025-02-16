@@ -15,7 +15,7 @@ The purpose of this project is to create a lightweight version of the design wit
 /index.html → Main HTML file
 
 ## 🌍 Live Demo  
-You can view the live version here:  
+You can view the live version here: https://iliyam0.github.io/Frame-Template/ 
 
 ## 🛠 Features  
 ✔️ Simple & clean HTML/CSS structure  
