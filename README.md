@@ -26,7 +26,7 @@ You can view the live version here: https://iliyam0.github.io/Frame-Template/
 ## Created for learning and practice purposes.
 
 
-By Iliya (Eliya) Mosadegh
+_By Iliya (Eliya) Mosadegh_
 
 
 
